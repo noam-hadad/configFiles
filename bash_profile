@@ -311,6 +311,6 @@ alias dcp='rsync -Pavzhe ssh --no-o'                                            
 #export PATH="/Users/noamhadad/anaconda3/bin:$PATH"
 
 # added by Anaconda2 5.0.1 installer
-export PATH="$PATH:/Users/noamhadad/anaconda2/bin"
+export PATH="$PATH:/Users/$USER/anaconda2/bin"
 
-export PATH="/Users/noamhadad/depot_tools:$PATH"
+export PATH="/Users/$USER/depot_tools:$PATH"
